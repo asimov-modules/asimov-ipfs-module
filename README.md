@@ -22,7 +22,7 @@ cargo install asimov-ipfs-module
 ## 👉 Examples
 
 ```bash
-asimov-ipfs-fetcher
+asimov-ipfs-fetcher ipfs://bafybeihkoviema7g3gxyt6la7vd5ho32ictqbilu3wnlo3rs7ewhnp7lly > fear-nothing.jpeg
 ```
 
 ## 👨‍💻 Development
