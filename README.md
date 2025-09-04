@@ -13,6 +13,12 @@
 
 ## ⬇️ Installation
 
+### Installation with the [ASIMOV CLI]
+
+```bash
+asimov module install ipfs -v
+```
+
 ### Installation from Source Code
 
 ```bash
@@ -40,3 +46,4 @@ git clone https://github.com/asimov-modules/asimov-ipfs-module.git
 [![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/asimov-modules/asimov-ipfs-module)
 
 [ASIMOV]: https://asimov.sh
+[ASIMOV CLI]: https://github.com/asimov-platform/asimov-cli
